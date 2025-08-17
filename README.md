@@ -15,5 +15,3 @@ This is a Python implementation of the **Rock, Paper, Scissors, Lizard, Spock** 
 Clone the repository and run the script:  
 ```bash
 python rock_paper_scissors.py
-
-
