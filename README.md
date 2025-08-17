@@ -16,10 +16,4 @@ Clone the repository and run the script:
 ```bash
 python rock_paper_scissors.py
 
----
-
-##  Demo
-Here’s how the game looks when played in a terminal:
-
-![Game Demo](Demo.gif)
 
