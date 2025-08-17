@@ -14,4 +14,4 @@ This is a Python implementation of the **Rock, Paper, Scissors, Lizard, Spock** 
 ## ▶️ How to Run
 Clone the repository and run the script:  
 ```bash
-python game.py
+python rock_paper_scissors.py
